@@ -1,6 +1,10 @@
 # Eat-N-Split
 
-A React app for splitting restaurant bills
+A React app for calculating expenses after splitting bills at a restaurant
+
+## Description
+
+The app allows the user to add a friend to their list of friends and split a restaurant bill with each friend individually. The friend's balance with the user will then be updated based on who pays the bill.
 
 ## Installation
 
