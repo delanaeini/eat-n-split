@@ -1,6 +1,7 @@
 # Eat-N-Split
 
 A React app for calculating expenses after splitting bills at a restaurant
+https://eat-n-split-delanaeini.web.app/
 
 ## Description
 
@@ -28,6 +29,6 @@ npm start
 
 ## Credits
 
-This was from the fantastic Jonas Schmedtmann's Ultimate React Tutorial on Udemy
+This was from the one and only Jonas Schmedtmann's Ultimate React Tutorial on Udemy
 https://www.udemy.com/course/the-ultimate-react-course/
 https://github.com/jonasschmedtmann/
