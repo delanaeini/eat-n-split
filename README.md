@@ -15,10 +15,10 @@ The app allows the user to add a friend to their list of friends and split a res
 npm -v
 ```
 
-- Install package.json
+- Install node modules
 
 ```
-npm install package.json
+npm install
 ```
 
 - Run on local computer
