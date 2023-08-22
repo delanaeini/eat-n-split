@@ -73,6 +73,7 @@ export default function App() {
         <FormSplitBill
           selectedFriend={selectedFriend}
           onSplitBill={handleSplitBill}
+          key={selectedFriend.id} //to reset the inputs(the state) when changing the selected friend
         />
       )}
       {/** FormSplitBill only shows when there is a selectedFriend*/}
